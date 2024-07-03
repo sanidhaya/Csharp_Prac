@@ -1,0 +1,8 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\bin\Debug\net472\PracProj1.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\bin\Debug\net472\PracProj1.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\bin\Debug\net472\PracProj1.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\obj\Debug\net472\PracProj1.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\obj\Debug\net472\PracProj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\obj\Debug\net472\PracProj1.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\obj\Debug\net472\PracProj1.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj1\PracProj1\obj\Debug\net472\PracProj1.pdb

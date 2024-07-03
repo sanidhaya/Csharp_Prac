@@ -1,0 +1,6 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task_ddl\Task_ddl\bin\Debug\Task_ddl.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task_ddl\Task_ddl\obj\Debug\Task_ddl.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task_ddl\Task_ddl\obj\Debug\Task_ddl.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task_ddl\Task_ddl\obj\Debug\Task_ddl.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task_ddl\Task_ddl\obj\Debug\Task_ddl.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task_ddl\Task_ddl\obj\Debug\Task_ddl.csproj.Up2Date

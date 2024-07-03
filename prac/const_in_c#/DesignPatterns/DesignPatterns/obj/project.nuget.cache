@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLb8zn4KnE1IlvUd5cv42WpyZweiICX0SIRp3dbWerR6u19ByZLcK2deKIEzLbC9RDucsDH9GgNpZv4FiGCN8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanidhaya_sharma\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\sanidhaya_sharma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\sanidhaya_sharma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\sanidhaya_sharma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

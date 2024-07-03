@@ -1,0 +1,16 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\IsPrimeTests.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\IsPrimeTests.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\obj\Debug\IsPrimeTests.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\obj\Debug\IsPrimeTests.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\obj\Debug\IsPrimeT.27E3ACC9.Up2Date
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\obj\Debug\IsPrimeTests.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrimeTests\obj\Debug\IsPrimeTests.pdb

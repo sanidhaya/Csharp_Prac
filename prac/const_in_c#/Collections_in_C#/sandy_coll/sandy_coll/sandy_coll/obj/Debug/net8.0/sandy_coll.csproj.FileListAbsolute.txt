@@ -1,0 +1,13 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\obj\Debug\net8.0\sandy_coll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\obj\Debug\net8.0\sandy_coll.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\bin\Debug\net8.0\sandy_coll.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\bin\Debug\net8.0\sandy_coll.dll.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\bin\Debug\net8.0\sandy_coll.deps.json
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\bin\Debug\net8.0\sandy_coll.runtimeconfig.json
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\bin\Debug\net8.0\sandy_coll.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\bin\Debug\net8.0\sandy_coll.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\obj\Debug\net8.0\sandy_coll.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\obj\Debug\net8.0\refint\sandy_coll.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\obj\Debug\net8.0\sandy_coll.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\obj\Debug\net8.0\sandy_coll.genruntimeconfig.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\sandy_coll\sandy_coll\sandy_coll\obj\Debug\net8.0\ref\sandy_coll.dll

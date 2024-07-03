@@ -1,0 +1,63 @@
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using q1;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace q1.Tests
+{
+    [TestClass()]
+    public class EmployeeTests
+    {                        
+        [TestMethod()]
+        public void TestEmployeeWithMostTasksCompletedInLastMonth()
+        {
+            // Arrange
+            List<Employee> employees = new List<Employee>()
+            {
+                new Employee("John", 22),
+                new Employee("Mary", 23),
+                new Employee("Peter", 24),
+                new Employee("Jane", 25)
+            };
+
+            Task task1 = new Task(new DateTime(2024, 4, 2, 0, 0, 0), new DateTime(2024, 5, 3, 0, 0, 0), "Task1", true);
+            Task task2 = new Task(new DateTime(2024, 4, 3, 0, 0, 0), new DateTime(2024, 5, 4, 0, 0, 0), "Task2", true);
+            Task task3 = new Task(new DateTime(2024, 4, 4, 0, 0, 0), new DateTime(2024, 5, 5, 0, 0, 0), "Task3", true);
+            Task task4 = new Task(new DateTime(2024, 4, 5, 0, 0, 0), new DateTime(2024, 5, 6, 0, 0, 0), "Task4", true);
+            Task task5 = new Task(new DateTime(2024, 4, 6, 0, 0, 0), new DateTime(2024, 5, 7, 0, 0, 0), "Task5", true);
+            Task task6 = new Task(new DateTime(2024, 4, 7, 0, 0, 0), new DateTime(2024, 5, 8, 0, 0, 0), "Task6", true);
+            Task task7 = new Task(new DateTime(2024, 4, 8, 0, 0, 0), new DateTime(2024, 5, 9, 0, 0, 0), "Task7", true);
+            Task task8 = new Task(new DateTime(2024, 4, 9, 0, 0, 0), new DateTime(2024, 5, 10, 0, 0, 0), "Task8", true);
+            Task task9 = new Task(new DateTime(2024, 4, 10, 0, 0, 0), new DateTime(2024, 5, 11, 0, 0, 0), "Task9", true);
+            Task task10 = new Task(new DateTime(2024, 4, 11, 0, 0, 0), new DateTime(2024, 5, 12, 0, 0, 0), "Task10", true);
+            Task task11 = new Task(new DateTime(2024, 4, 12, 0, 0, 0), new DateTime(2024, 5, 13, 0, 0, 0), "Task11", true);
+
+            task1.AssignToEmployee(employees[0]);
+            task2.AssignToEmployee(employees[0]);
+            task3.AssignToEmployee(employees[0]);
+            task4.AssignToEmployee(employees[0]);
+            task5.AssignToEmployee(employees[0]);
+            task6.AssignToEmployee(employees[1]);
+            task7.AssignToEmployee(employees[1]);
+            task8.AssignToEmployee(employees[2]);
+            task9.AssignToEmployee(employees[2]);
+            task10.AssignToEmployee(employees[3]);
+            task11.AssignToEmployee(employees[1]);
+
+            DateTime OneMonthAgo = DateTime.Now.AddMonths(-1);
+
+            // Act
+            var most_work = (from employee in employees
+                             let completed_task = employee._tasks.Count(task => task._completed && task._end_date > OneMonthAgo)
+                             orderby completed_task descending
+                             select employee).First();
+
+            // Assert
+            Assert.IsNotNull(most_work);
+            Assert.AreEqual("John", most_work._name);
+        }
+    }
+}

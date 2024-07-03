@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJiXghcTslTLUfSsF0x4SYW6sfJ7hvZScgRTV/OMi3i1ZvViFc33xXYsS6HQ5IPmMwWtanEGb3yxMvy8Xo0ybw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\PracProj1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanidhaya_sharma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sanidhaya_sharma\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

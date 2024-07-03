@@ -1,0 +1,7 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\xUnitTest\bin\Debug\xUnitTest.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\xUnitTest\bin\Debug\xUnitTest.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\xUnitTest\bin\Debug\xUnitTest.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\xUnitTest\obj\Debug\xUnitTest.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\xUnitTest\obj\Debug\xUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\xUnitTest\obj\Debug\xUnitTest.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\xUnitTest\obj\Debug\xUnitTest.pdb

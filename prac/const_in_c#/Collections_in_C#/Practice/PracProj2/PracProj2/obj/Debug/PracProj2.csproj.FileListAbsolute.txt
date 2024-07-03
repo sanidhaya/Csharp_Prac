@@ -1,0 +1,7 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj2\PracProj2\bin\Debug\PracProj2.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj2\PracProj2\bin\Debug\PracProj2.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj2\PracProj2\bin\Debug\PracProj2.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj2\PracProj2\obj\Debug\PracProj2.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj2\PracProj2\obj\Debug\PracProj2.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj2\PracProj2\obj\Debug\PracProj2.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Practice\PracProj2\PracProj2\obj\Debug\PracProj2.pdb

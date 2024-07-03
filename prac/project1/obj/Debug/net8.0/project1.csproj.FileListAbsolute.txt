@@ -1,0 +1,14 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\bin\Debug\net8.0\project1.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\bin\Debug\net8.0\project1.deps.json
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\bin\Debug\net8.0\project1.runtimeconfig.json
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\bin\Debug\net8.0\project1.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\bin\Debug\net8.0\project1.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\project1.AssemblyInfoInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\project1.AssemblyInfo.cs
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\project1.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\refint\project1.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\project1.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\project1.genruntimeconfig.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\project1\obj\Debug\net8.0\ref\project1.dll

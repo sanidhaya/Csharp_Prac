@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3A76D-47F8-467C-AA9F-6CF669E4E61D}|q5\\q5.csproj|C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3A76D-47F8-467C-AA9F-6CF669E4E61D}|q5\\q5.csproj|solutionrelative:q5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3A76D-47F8-467C-AA9F-6CF669E4E61D}|q5\\q5.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\const_in_c#\\collections_in_c#\\task_on_17thmay\\q5\\q5\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3A76D-47F8-467C-AA9F-6CF669E4E61D}|q5\\q5.csproj|solutionrelative:q5\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3A76D-47F8-467C-AA9F-6CF669E4E61D}|q5\\q5.csproj|C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3A76D-47F8-467C-AA9F-6CF669E4E61D}|q5\\q5.csproj|solutionrelative:q5\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924A862B-827C-4720-A018-BFE0704556CB}|q5Tests\\q5Tests.csproj|C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924A862B-827C-4720-A018-BFE0704556CB}|q5Tests\\q5Tests.csproj|solutionrelative:q5tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924A862B-827C-4720-A018-BFE0704556CB}|q5Tests\\q5Tests.csproj|C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924A862B-827C-4720-A018-BFE0704556CB}|q5Tests\\q5Tests.csproj|solutionrelative:q5tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924A862B-827C-4720-A018-BFE0704556CB}|q5Tests\\q5Tests.csproj|C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5tests\\customerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924A862B-827C-4720-A018-BFE0704556CB}|q5Tests\\q5Tests.csproj|solutionrelative:q5tests\\customerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersTests.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5Tests\\OrdersTests.cs",
+              "RelativeDocumentMoniker": "q5Tests\\OrdersTests.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5Tests\\OrdersTests.cs",
+              "RelativeToolTip": "q5Tests\\OrdersTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:54:49.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersTests.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5Tests\\CustomersTests.cs",
+              "RelativeDocumentMoniker": "q5Tests\\CustomersTests.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5Tests\\CustomersTests.cs",
+              "RelativeToolTip": "q5Tests\\CustomersTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:54:23.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "q5Tests\\ProgramTests.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5Tests\\ProgramTests.cs",
+              "RelativeToolTip": "q5Tests\\ProgramTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:54:08.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\Customers.cs",
+              "RelativeDocumentMoniker": "q5\\Customers.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\Customers.cs",
+              "RelativeToolTip": "q5\\Customers.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:55:34.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\Orders.cs",
+              "RelativeDocumentMoniker": "q5\\Orders.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\Orders.cs",
+              "RelativeToolTip": "q5\\Orders.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:55:15.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\Program.cs",
+              "RelativeDocumentMoniker": "q5\\Program.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\task_on_17thMay\\q5\\q5\\Program.cs",
+              "RelativeToolTip": "q5\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA7wBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:48:37.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

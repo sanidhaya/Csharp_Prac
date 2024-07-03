@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\PracProj1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\PracProj1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\PracProj1.csproj",
+        "projectName": "PracProj1",
+        "projectPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\PracProj1.csproj",
+        "packagesPath": "C:\\Users\\sanidhaya_sharma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanidhaya_sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

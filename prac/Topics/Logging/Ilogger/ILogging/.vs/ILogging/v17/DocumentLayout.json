@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Logging\\Ilogger\\ILogging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117D89C9-AFD0-47D1-9136-0EF2FB7D9E3B}|ILogging\\ILogging.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\topics\\logging\\ilogger\\ilogging\\ilogging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117D89C9-AFD0-47D1-9136-0EF2FB7D9E3B}|ILogging\\ILogging.csproj|solutionrelative:ilogging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D89C9-AFD0-47D1-9136-0EF2FB7D9E3B}|ILogging\\ILogging.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\topics\\logging\\ilogger\\ilogging\\ilogging\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117D89C9-AFD0-47D1-9136-0EF2FB7D9E3B}|ILogging\\ILogging.csproj|solutionrelative:ilogging\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D89C9-AFD0-47D1-9136-0EF2FB7D9E3B}|ILogging\\ILogging.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\topics\\logging\\ilogger\\ilogging\\ilogging\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117D89C9-AFD0-47D1-9136-0EF2FB7D9E3B}|ILogging\\ILogging.csproj|solutionrelative:ilogging\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Logging\\Ilogger\\ILogging\\ILogging\\Constants.cs",
+              "RelativeDocumentMoniker": "ILogging\\Constants.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Logging\\Ilogger\\ILogging\\ILogging\\Constants.cs",
+              "RelativeToolTip": "ILogging\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Logging\\Ilogger\\ILogging\\ILogging\\Program.cs",
+              "RelativeDocumentMoniker": "ILogging\\Program.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Logging\\Ilogger\\ILogging\\ILogging\\Program.cs",
+              "RelativeToolTip": "ILogging\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:31.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Logging\\Ilogger\\ILogging\\ILogging\\Startup.cs",
+              "RelativeDocumentMoniker": "ILogging\\Startup.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Logging\\Ilogger\\ILogging\\ILogging\\Startup.cs",
+              "RelativeToolTip": "ILogging\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:28.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

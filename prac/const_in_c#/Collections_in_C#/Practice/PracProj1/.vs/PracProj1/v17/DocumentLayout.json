@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C89603-C587-443E-AA55-60BBB8281A96}|PracProj1\\PracProj1.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\const_in_c#\\collections_in_c#\\practice\\pracproj1\\pracproj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C89603-C587-443E-AA55-60BBB8281A96}|PracProj1\\PracProj1.csproj|solutionrelative:pracproj1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\Program.cs",
+              "RelativeDocumentMoniker": "PracProj1\\Program.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\Practice\\PracProj1\\PracProj1\\Program.cs",
+              "RelativeToolTip": "PracProj1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:53:29.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

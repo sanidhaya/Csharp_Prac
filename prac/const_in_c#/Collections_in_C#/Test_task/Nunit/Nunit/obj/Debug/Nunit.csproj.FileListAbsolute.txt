@@ -1,0 +1,6 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\Nunit\Nunit\bin\Debug\Nunit.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\Nunit\Nunit\bin\Debug\Nunit.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\Nunit\Nunit\obj\Debug\Nunit.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\Nunit\Nunit\obj\Debug\Nunit.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\Nunit\Nunit\obj\Debug\Nunit.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\Nunit\Nunit\obj\Debug\Nunit.pdb

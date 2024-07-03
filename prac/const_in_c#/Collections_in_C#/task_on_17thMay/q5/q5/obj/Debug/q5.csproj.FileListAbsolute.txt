@@ -1,0 +1,7 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\task_on_17thMay\q5\q5\bin\Debug\q5.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\task_on_17thMay\q5\q5\bin\Debug\q5.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\task_on_17thMay\q5\q5\bin\Debug\q5.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\task_on_17thMay\q5\q5\obj\Debug\q5.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\task_on_17thMay\q5\q5\obj\Debug\q5.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\task_on_17thMay\q5\q5\obj\Debug\q5.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\task_on_17thMay\q5\q5\obj\Debug\q5.pdb

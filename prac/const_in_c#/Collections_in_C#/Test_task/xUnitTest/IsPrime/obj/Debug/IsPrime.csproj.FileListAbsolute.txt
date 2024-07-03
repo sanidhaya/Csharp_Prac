@@ -1,0 +1,6 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrime\bin\Debug\IsPrime.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrime\bin\Debug\IsPrime.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrime\obj\Debug\IsPrime.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrime\obj\Debug\IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrime\obj\Debug\IsPrime.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\xUnitTest\IsPrime\obj\Debug\IsPrime.pdb

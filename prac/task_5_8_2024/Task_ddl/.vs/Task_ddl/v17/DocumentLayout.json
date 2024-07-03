@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\task_5_8_2024\\Task_ddl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5717EC0-86CC-4DA1-B5A8-4ADBED30F991}|Task_ddl\\Task_ddl.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\task_5_8_2024\\task_ddl\\task_ddl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5717EC0-86CC-4DA1-B5A8-4ADBED30F991}|Task_ddl\\Task_ddl.csproj|solutionrelative:task_ddl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\task_5_8_2024\\Task_ddl\\Task_ddl\\Class1.cs",
+              "RelativeDocumentMoniker": "Task_ddl\\Class1.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\task_5_8_2024\\Task_ddl\\Task_ddl\\Class1.cs",
+              "RelativeToolTip": "Task_ddl\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:08:47.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

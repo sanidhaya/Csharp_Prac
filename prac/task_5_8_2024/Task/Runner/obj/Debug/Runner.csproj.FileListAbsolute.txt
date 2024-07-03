@@ -1,0 +1,10 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\bin\Debug\Runner.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\bin\Debug\Runner.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\bin\Debug\Runner.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\obj\Debug\Runner.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\obj\Debug\Runner.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\obj\Debug\Runner.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\bin\Debug\Task.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\bin\Debug\Task.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_5_8_2024\Task\Runner\obj\Debug\Runner.csproj.Up2Date

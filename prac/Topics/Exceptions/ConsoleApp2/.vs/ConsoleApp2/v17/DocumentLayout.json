@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{500DF14F-A3AC-4142-A7B6-51F5FD4DEE89}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500DF14F-A3AC-4142-A7B6-51F5FD4DEE89}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B815823-A29B-4DBC-83BA-BB689ABBB968}|TestProject2\\TestProject2.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\topics\\exceptions\\consoleapp2\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B815823-A29B-4DBC-83BA-BB689ABBB968}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500DF14F-A3AC-4142-A7B6-51F5FD4DEE89}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\topics\\exceptions\\consoleapp2\\consoleapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500DF14F-A3AC-4142-A7B6-51F5FD4DEE89}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\ConsoleApp2\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Class1.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\ConsoleApp2\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp2\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:02:51.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:05:12.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\Topics\\Exceptions\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:47:40.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

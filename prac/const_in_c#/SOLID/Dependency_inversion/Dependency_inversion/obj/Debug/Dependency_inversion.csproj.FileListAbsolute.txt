@@ -1,0 +1,7 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\SOLID\Dependency_inversion\Dependency_inversion\bin\Debug\Dependency_inversion.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\SOLID\Dependency_inversion\Dependency_inversion\bin\Debug\Dependency_inversion.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\SOLID\Dependency_inversion\Dependency_inversion\bin\Debug\Dependency_inversion.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\SOLID\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\SOLID\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\SOLID\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\SOLID\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.pdb

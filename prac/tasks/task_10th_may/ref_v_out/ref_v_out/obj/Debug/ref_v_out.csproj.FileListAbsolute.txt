@@ -1,0 +1,7 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\tasks\task_10th_may\ref_v_out\ref_v_out\bin\Debug\ref_v_out.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\tasks\task_10th_may\ref_v_out\ref_v_out\bin\Debug\ref_v_out.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\tasks\task_10th_may\ref_v_out\ref_v_out\bin\Debug\ref_v_out.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\tasks\task_10th_may\ref_v_out\ref_v_out\obj\Debug\ref_v_out.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\tasks\task_10th_may\ref_v_out\ref_v_out\obj\Debug\ref_v_out.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\tasks\task_10th_may\ref_v_out\ref_v_out\obj\Debug\ref_v_out.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\tasks\task_10th_may\ref_v_out\ref_v_out\obj\Debug\ref_v_out.pdb

@@ -1,0 +1,7 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\DesignPatterns\CreationalPatterns\SingleTon\SingleTon\bin\Debug\SingleTon.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\DesignPatterns\CreationalPatterns\SingleTon\SingleTon\bin\Debug\SingleTon.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\DesignPatterns\CreationalPatterns\SingleTon\SingleTon\bin\Debug\SingleTon.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\DesignPatterns\CreationalPatterns\SingleTon\SingleTon\obj\Debug\SingleTon.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\DesignPatterns\CreationalPatterns\SingleTon\SingleTon\obj\Debug\SingleTon.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\DesignPatterns\CreationalPatterns\SingleTon\SingleTon\obj\Debug\SingleTon.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\DesignPatterns\CreationalPatterns\SingleTon\SingleTon\obj\Debug\SingleTon.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit", "Nunit\Nunit.csproj", "{A182E3D2-3910-4901-A381-BB7004A22870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTests", "NunitTests\NunitTests.csproj", "{4A510880-9795-41AB-9880-DA2164FEBB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A182E3D2-3910-4901-A381-BB7004A22870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A182E3D2-3910-4901-A381-BB7004A22870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A182E3D2-3910-4901-A381-BB7004A22870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A182E3D2-3910-4901-A381-BB7004A22870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A510880-9795-41AB-9880-DA2164FEBB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A510880-9795-41AB-9880-DA2164FEBB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A510880-9795-41AB-9880-DA2164FEBB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A510880-9795-41AB-9880-DA2164FEBB39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E5B957-9DAE-47AA-886E-B4D0713E1B6E}
+	EndGlobalSection
+EndGlobal

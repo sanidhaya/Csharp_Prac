@@ -1,0 +1,3 @@
+interface IAbstractionCollection{
+    Iterator CreateIterator();
+}

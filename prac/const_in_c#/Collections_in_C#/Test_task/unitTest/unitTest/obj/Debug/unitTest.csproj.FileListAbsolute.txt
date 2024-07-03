@@ -1,0 +1,10 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\obj\Debug\unitTest.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\obj\Debug\unitTest.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\bin\Debug\unitTest.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\bin\Debug\unitTest.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\bin\Debug\unitTest.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\obj\Debug\unitTest.csproj.Up2Date
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\obj\Debug\unitTest.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\const_in_c#\Collections_in_C#\Test_task\unitTest\unitTest\obj\Debug\unitTest.pdb

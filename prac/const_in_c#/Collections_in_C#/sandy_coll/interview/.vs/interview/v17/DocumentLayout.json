@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\sandy_coll\\interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD93F3FC-B903-4554-9BF1-241AA78BEEEF}|interview\\interview.csproj|c:\\users\\sanidhaya_sharma\\documents\\.net\\prac\\const_in_c#\\collections_in_c#\\sandy_coll\\interview\\interview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD93F3FC-B903-4554-9BF1-241AA78BEEEF}|interview\\interview.csproj|solutionrelative:interview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\sandy_coll\\interview\\interview\\Program.cs",
+              "RelativeDocumentMoniker": "interview\\Program.cs",
+              "ToolTip": "C:\\Users\\sanidhaya_sharma\\Documents\\.NET\\prac\\const_in_c#\\Collections_in_C#\\sandy_coll\\interview\\interview\\Program.cs",
+              "RelativeToolTip": "interview\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:33:03.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

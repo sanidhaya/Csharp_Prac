@@ -1,0 +1,7 @@
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_260524\Ques1\Ques1\bin\Debug\Ques1.exe.config
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_260524\Ques1\Ques1\bin\Debug\Ques1.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_260524\Ques1\Ques1\bin\Debug\Ques1.pdb
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_260524\Ques1\Ques1\obj\Debug\Ques1.csproj.AssemblyReference.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_260524\Ques1\Ques1\obj\Debug\Ques1.csproj.CoreCompileInputs.cache
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_260524\Ques1\Ques1\obj\Debug\Ques1.exe
+C:\Users\sanidhaya_sharma\Documents\.NET\prac\task_260524\Ques1\Ques1\obj\Debug\Ques1.pdb
